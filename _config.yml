@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shuoshuo Chen"
-  avatar           : "./images/shuoshuochen.jpg"
+  avatar           : "images/shuoshuochen.jpg"
   bio              : "MSc student in machine learning and computer vison"
   location         : "Shenzhen, China"
   employer         :
