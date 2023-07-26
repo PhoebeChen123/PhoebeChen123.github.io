@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Excellent Graduate of Southern University of Science and Technology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
