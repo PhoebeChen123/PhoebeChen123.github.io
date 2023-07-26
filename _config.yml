@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Shuoshuo Chen's Homepage"
 title_separator          : "-"
-name                     : &name "Shuoshuo CHen"
+name                     : &name "Shuoshuo Chen"
 description              : &description "personal description"
 url                      : https://PhoebeChen123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
