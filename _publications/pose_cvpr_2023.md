@@ -3,6 +3,7 @@ title: "Self-Correctable and Adaptable Inference for Generalizable Human Pose Es
 collection: publications
 permalink: /publication/pose_cvpr_2023
 excerpt: 'Keywords: Human Pose Estimation, Adaptable Correction, Prediction Optimization'
+venue: 'CVPR 2023'
 date: 2023-06-01
 paperurl: 'http://PhoebeChen123.github.io/files/pose_cvpr_2023.pdf'
 citation: 'Kan Z, Chen S, Zhang C, et al. Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 5537-5546.'
