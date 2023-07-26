@@ -22,7 +22,10 @@ I’m Shuoshuo Chen (陈烁硕), a second-year Master student in the Department 
 - Relevant Courses: Probability Theory and Mathematical Statistics (A+); Digital Image Processing (A-); Computer Vision (A).
 
 
+## Awards
 
+- Excellent Graduate of Southern University of Science and Technology, Jun., 2021
+- Merit Student Scholarship of Southern University of Science and Technology, Nov., 2018 - Nov., 2020
 
 
 
