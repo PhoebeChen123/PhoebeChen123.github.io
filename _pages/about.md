@@ -10,7 +10,7 @@ redirect_from:
 
 I’m Shuoshuo Chen (陈烁硕), a second-year Master student in the Department of Electronic and Electrical Engineering at Southern University of Science and Technology, advised by Professor [Zhihai He](https://www.sustech.edu.cn/en/faculties/zhihaihe.html). My research interests focus on the generalization capability of machine learning models for vision tasks.
 
-# Education
+## Education
 
 ### Master of Electronic Science and Technology, *Southern University of Science and Technology*, 2021 - 2024 (expected)
 - GPA: 3.72 / 4.0
@@ -23,7 +23,7 @@ I’m Shuoshuo Chen (陈烁硕), a second-year Master student in the Department 
 
 
 
-# Awards
+## Awards
 - Excellent Graduate of Southern University of Science and Technology, Jun., 2021
 - Merit Student Scholarship of Southern University of Science and Technology, Nov., 2018 - Nov., 2020
 
