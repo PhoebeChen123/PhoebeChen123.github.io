@@ -3,6 +3,7 @@ title: "Self-Constrained Inference Optimization on Structural Groups for Human P
 collection: publications
 permalink: /publication/pose_eccv_2022
 excerpt: 'Keywords: Human Pose Estimation, Self-Constrained, Structural Inference, Prediction Optimization'
+venue: 'ECCV 2022'
 date: 2022-07-01
 paperurl: 'http://PhoebeChen123.github.io/files/pose_eccv_2022.pdf'
 citation: 'Kan Z, Chen S, Li Z, et al. Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation[C]//European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022: 729-745.'
