@@ -1,7 +1,7 @@
 ---
 title: "Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/pose_eccv_2022
 excerpt: 'Human Pose Estimation, Self-Constrained, Structural Inference, Prediction Optimization'
 date: 2022-07
 paperurl: 'http://academicpages.github.io/files/pose_eccv_2022.pdf'
