@@ -20,7 +20,8 @@ I’m Shuoshuo Chen (陈烁硕), a third-year Master student in the Department o
 - Merit Student Scholarship, Nov., 2018 - Nov., 2020
 
 ## Publication
-<img src="../images/shuoshuochen.jpg" alt="示例图片" width="300" height="200">
+<img src="../images/shuoshuochen.jpg" alt="示例图片" width="300" height="200">  \[CVPR 2023\] Self-Correctable and Adapt-
+able Inference for Generalizable Human Pose Estimation
 
 
 
