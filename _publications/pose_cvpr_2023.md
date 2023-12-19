@@ -1,4 +1,5 @@
 ---
+![CVPR2023Pose](../images/shuoshuochen.jpg)
 title: "Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation"
 collection: publications
 permalink: /publication/pose_cvpr_2023
