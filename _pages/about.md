@@ -21,7 +21,7 @@ I’m Shuoshuo Chen (陈烁硕), a third-year Master student in the Department o
 
 ## Publication
 <div style="display: flex; flex-direction: row;">
-    <img src="../images/shuoshuochen.jpg" alt="示例图片" style="width: 100px; height: 700px; margin-right: 20px;">
+    <img src="../images/shuoshuochen.jpg" alt="示例图片" style="width: 100px; height: 70px; margin-right: 20px;">
     <p>Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation</p>
 </div>
 
