@@ -19,7 +19,8 @@ I’m Shuoshuo Chen (陈烁硕), a third-year Master student in the Department o
 - Excellent Graduate, Jun., 2021
 - Merit Student Scholarship, Nov., 2018 - Nov., 2020
 
-
+## Publication
+![Shuoshuo Chen](../images/shuoshuochen.jpg)
 
 
 
