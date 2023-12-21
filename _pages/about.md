@@ -23,7 +23,7 @@ I’m Shuoshuo Chen (陈烁硕), a third-year Master student in the Department o
 <div style="display: flex; flex-direction: column;">
     <img src="../images/cvpr2023_pose.jpg" alt="cvpr2023_pose" style="width: 200px; height: 100px; margin-right: 20px;">
     <p><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.pdf">Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation</a>(CVPR2023)</p>
-    <p>Zhehan Kan, <p style="font-weight: bold;">Shuoshuo Chen</p>, Ce Zhang, Yushun Tang and Zhihai He</p>
+    <p>Zhehan Kan, <strong>Shuoshuo Chen</strong>, Ce Zhang, Yushun Tang and Zhihai He</p>
 </div>
 
 
