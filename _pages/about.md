@@ -33,7 +33,7 @@ Merit Student Scholarship, Nov., 2018 - Nov., 2020
 </div>
 
 <div style="display: flex; flex-direction: row;">
-    <img src="../images/cvpr2023_tta.jpg" alt="eccv2022_pose" style="width: 200px; height: 100px; margin-right: 20px;">
+    <img src="../images/eccv2022_pose.jpg" alt="eccv2022_pose" style="width: 200px; height: 100px; margin-right: 20px;">
     <p><strong>[ECCV2022]</strong> <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650718.pdf">Self-Constrained Inference Optimization on
 Structural Groups for Human Pose Estimation</a> <br>Zhehan Kan, <strong>Shuoshuo Chen</strong>, Zeng Li, and Zhihai He</p>
 </div>
