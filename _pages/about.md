@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I’m Shuoshuo Chen (陈烁硕), a third-year Master student in the Department of Electronic and Electrical Engineering at Southern University of Science and Technology, advised by Professor [Zhihai He](https://www.sustech.edu.cn/en/faculties/zhihaihe.html). My research interests focus on the generalization capability of machine learning models for vision tasks. You can find my CV here: [Shuoshuo Chen](../files/ShuoshuoChen_CV.pdf).
+I’m Shuoshuo Chen (陈烁硕), a third-year Master student in the Department of Electronic and Electrical Engineering at Southern University of Science and Technology (SUSTech), advised by Professor [Zhihai He](https://www.sustech.edu.cn/en/faculties/zhihaihe.html). My research interests focus on the generalization capability of machine learning models for vision tasks. You can find my CV here: [Shuoshuo Chen](../files/ShuoshuoChen_CV.pdf).
 
 ## Education
 <p><strong>Master of Electronic Science and Technology, <i>SUSTech</i>, 2021 - 2024 (expected)</strong> 
   <br>&nbsp &nbsp Research in <a href="https://nkdailab.github.io/">Artificial Intelligence Lab</a></p>
 <p><strong>Bachelor of Information Engineering, <i>SUSTech</i>, 2017 - 2021</strong> 
-  <br>&nbsp &nbsp Excellent Graduate, Jun., 2021 <br>Merit Student Scholarship, Nov., 2018 - Nov., 2020 </p>
+  <br>&nbsp &nbsp Excellent Graduate, Jun., 2021 <br>&nbsp &nbsp Merit Student Scholarship, Nov., 2018 - Nov., 2020 </p>
   
 
 ## Publication
