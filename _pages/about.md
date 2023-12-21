@@ -12,13 +12,10 @@ I’m Shuoshuo Chen (陈烁硕), a third-year Master student in the Department o
 
 ## Education
 <p><strong>Master of Electronic Science and Technology, <i>SUSTech</i>, 2021 - 2024 (expected)</strong> 
-  <br>Research in [Artificial Intelligence Lab](https://nkdailab.github.io/ )</p>
+  <br>Research in <a href="https://nkdailab.github.io/">Artificial Intelligence Lab</a></p>
+<p><strong>Bachelor of Information Engineering, <i>SUSTech</i>, 2017 - 2021</strong> 
+  <br>Excellent Graduate, Jun., 2021 <br>Merit Student Scholarship, Nov., 2018 - Nov., 2020 </p>
   
-**Bachelor of Information Engineering, *SUSTech*, 2017 - 2021**
-
-Excellent Graduate, Jun., 2021
-
-Merit Student Scholarship, Nov., 2018 - Nov., 2020
 
 ## Publication
 <div style="display: flex; flex-direction: row;">
@@ -26,10 +23,12 @@ Merit Student Scholarship, Nov., 2018 - Nov., 2020
     <p><strong>[CVPR2023]</strong> <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.pdf">Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation</a> <br>Zhehan Kan, <strong>Shuoshuo Chen</strong>, Ce Zhang, Yushun Tang and Zhihai He</p>
 </div>
 
+
 <div style="display: flex; flex-direction: row;">
     <img src="../images/cvpr2023_tta.jpg" alt="cvpr2023_tta" style="width: 200px; height: 100px; margin-right: 20px;">
     <p><strong>[CVPR2023]</strong> <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Neuro-Modulated_Hebbian_Learning_for_Fully_Test-Time_Adaptation_CVPR_2023_paper.pdf">Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation</a> <br>Yushun Tang, Ce Zhang, Heng Xu, <strong>Shuoshuo Chen</strong>, Jie Cheng, Luziwei Leng, Qinghai Guo and Zhihai He</p>
 </div>
+
 
 <div style="display: flex; flex-direction: row;">
     <img src="../images/eccv2022_pose.jpg" alt="eccv2022_pose" style="width: 200px; height: 100px; margin-right: 20px;">
