@@ -12,7 +12,7 @@ I’m Shuoshuo Chen (陈烁硕), a third-year Master student in the Department o
 
 ## Education
 <p><strong>Master of Electronic Science and Technology, <i>SUSTech</i>, 2021 - 2024 (expected)</strong> 
-  <br>&nbsp; &nbsp; Research in <a href="https://nkdailab.github.io/">Artificial Intelligence Lab</a></p>
+  <br>&nbsp; &nbsp; Research at <a href="https://nkdailab.github.io/">Artificial Intelligence Lab</a></p>
 <p><strong>Bachelor of Information Engineering, <i>SUSTech</i>, 2017 - 2021</strong> 
   <br>&nbsp; &nbsp; Excellent Graduate, Jun., 2021 <br>&nbsp; &nbsp; Merit Student Scholarship, Nov., 2018 - Nov., 2020 </p>
   
